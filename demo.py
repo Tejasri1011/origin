@@ -1,2 +1,1 @@
-print('pull')
-print('pull2')
+print('hello world')
